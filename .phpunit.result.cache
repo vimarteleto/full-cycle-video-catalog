@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\FooUnitTest::testCallMethodFoo":4},"times":{"Tests\\Unit\\TesteUnitTest::testCallMethodFoo":0.001,"Tests\\Unit\\FooUnitTest::testCallMethodFoo":0.001}}
